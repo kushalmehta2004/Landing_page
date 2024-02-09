@@ -1,0 +1,223 @@
+nav {
+    padding: 1rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav a {
+    margin-top: 1rem;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-right: 2.5rem;
+    transition: all 0.3s;
+    display: inline-block;
+    font-family: monospace;
+    font-weight: 100;
+    /* Set to inline-block to be in the same line as the logo */
+}
+
+nav a:hover {
+    transform: scale(1.1);
+}
+
+#logo {
+    margin-right: auto;
+    font-family: pacifico;
+    font-size: 2rem;
+    padding-left: 2rem;
+}
+
+.beg {
+    margin-top: 10rem;
+}
+
+#first {
+    height: 30rem;
+    width: max-content;
+}
+
+.row {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.col {
+    flex-basis: 50%;
+}
+
+p {
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(22, 113, 113);
+}
+
+svg {
+    margin-left: 1.7rem;
+    margin-right: 1.7rem;
+}
+
+span a {
+    text-decoration: none;
+    /* Remove underline from the anchor */
+    color: inherit;
+    /* Inherit the color from the parent (default) */
+    fill: currentColor;
+}
+
+.btns {
+    background-color: rgb(12, 38, 129);
+    font-weight: bold;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    border-radius: 10px;
+    margin-right: 3rem;
+}
+
+.btns:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+#second {
+    height: 30rem;
+}
+
+#secondtxt {
+    margin-left: 4rem;
+}
+
+#txt {
+    font-size: 1.2rem;
+}
+
+.sec {
+    margin-top: 5rem;
+}
+
+#company {
+    margin-top: 2rem;
+    margin-right: 2rem;
+}
+
+.product {
+    margin-top: 2rem;
+    height: 65%;
+}
+
+.first {
+    height: 100%;
+    width: 100%;
+    margin: 0 1rem 0 0;
+
+
+}
+
+.second {
+    height: 100%;
+    width: 100%;
+    margin: 0 1rem 0 1rem;
+}
+
+.third {
+    height: 100%;
+    width: 100%;
+    margin: 0 0 0 1rem;
+}
+
+.col img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+#divide {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(22, 113, 113);
+    font-size: larger;
+    border-bottom: 1px solid #ccd3d9;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+
+}
+
+#divide:last-child {
+    border-bottom: none;
+}
+
+#main {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    overflow: hidden;
+    box-shadow: 0 0 10px 5px #dadde3;
+
+}
+
+#divide a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+#divide a:hover {
+    color: rgb(17, 143, 154);
+}
+
+#photo {
+    height: 15rem;
+}
+
+#blog {
+    box-shadow: 0 0 10px 5px #dadde3;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    height: 15rem;
+}
+
+.bbtn {
+    border: none;
+    background-color: rgb(12, 38, 129);
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+
+}
+
+.bbtn:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+#profile {
+    height: 20rem;
+    width: 20rem;
+}
+
+#content {
+    padding-left: 1.5rem;
+}
+
+#heading {
+    font-size: 4rem;
+}

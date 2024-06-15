@@ -34,5 +34,5 @@ To run this project locally, follow these steps:
    git clone https://github.com/kushalmehta2004/Landing_page.git
 
 ## Technologies Used
--HTML
--CSS
+1. HTML
+2. CSS

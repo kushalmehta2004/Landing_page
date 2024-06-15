@@ -8,12 +8,7 @@ Welcome to the repository for my static portfolio website! This project is a per
 - [Features](#features)
 - [Live Demo](#live-demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -37,3 +32,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/kushalmehta2004/Landing_page.git
+
+## Technologies Used
+-HTML
+-CSS

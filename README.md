@@ -23,7 +23,7 @@ This is a simple, responsive static website designed to highlight my professiona
 
 ## Live Demo
 
-Check out the live demo [[here](https://your-live-demo-link.com).](https://kushalmehta2004.github.io/Landing_page/)
+Check out the live demo (https://kushalmehta2004.github.io/Landing_page/)
 
 ## Installation
 
